@@ -8,7 +8,7 @@ The challenge [Create your own megaverse](https://challenge.crossmint.io/) consi
 * MapPhase2.py for Phase 2
 
 > [!IMPORTANT]
-> In order to run these Python code, you need to install it, you can download it from [here](https://www.python.org/downloads/), I have used Python 3.12.3 for this proyect.
+> In order to run these Python code, you need to install it, you can download it from [here](https://www.python.org/downloads/), I have used *Python 3.12.3* for this proyect.
 
 Also, I have been provided with the Candidate ID: 0d321c9b-f123-47d3-8583-98ec8508833c, I have hardcoded it to solve the phases
 
